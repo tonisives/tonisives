@@ -1,3 +1,6 @@
+## About me
+Typescript, kubernetes, bare metal
+
 ## Check out my projects
 
 - [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional programming in typescript with AI linting rules
