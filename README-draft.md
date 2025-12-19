@@ -1,12 +1,16 @@
 ## About me
-Typescript, kubernetes, bare metal, rust
+Typescript, Kubernetes, Bare metal, Rust
 
-Backend developer at [HolderScan](https://github.com/HolderScan). Previously worked in [High-Mobility](http://github.com/highmobility)
+Backend developer at [HolderScan](https://github.com/HolderScan). Previously worked at [High-Mobility](http://github.com/highmobility)
 
-## Check out my projects
+## Check out my open-source projects
 
+TypeScript
 - [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional programming in Typescript with AI linting rules
-- [easy-kpf](https://github.com/tonisives/easy-kpf) - GUI app to manage port forwards
+
+System apps written in Rust
+- [easy-kpf](https://github.com/tonisives/easy-kpf) - GUI app to manage port forwards. 
+- [ovim](https://github.com/tonisives/easy-kpf) - macOS system wide vim mode
 
 ## My public contributions:
 
