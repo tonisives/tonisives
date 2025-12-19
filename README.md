@@ -1,8 +1,8 @@
 ## About me
 
-Typescript, Kubernetes, Bare metal, Rust
-
 Backend developer at [HolderScan](https://github.com/HolderScan). Previously worked at [High-Mobility](http://github.com/highmobility)
+
+Using Typescript, Rust and more on bare metal Kubernetes.
 
 ## Check out my open-source projects
 
@@ -17,8 +17,30 @@ System apps written in Rust
 
 ## My public contributions:
 
-| AI | Ethereum | Automotive |
-|:---|:---|:---|
-| [langchainjs](https://github.com/langchain-ai/langchainjs/pulls?q=author%3Atonisives+) | [reth](https://github.com/paradigmxyz/reth/pulls?q=author%3Atonisives+) | [hmkit android](https://github.com/highmobility/hmkit-android) |
-| [chroma-db](https://github.com/chroma-core/chroma/pulls?q=author%3Atonisives+) | | [hmkit fleet](https://github.com/highmobility/hmkit-fleet) |
-| | | [bluetooth-auto-api explorer](https://github.com/highmobility/hm-android-bluetooth-auto-api-explorer) |
+<div align="center">
+<table width="100%">
+<tr>
+<td valign="top">
+
+**AI**
+<br>[langchainjs](https://github.com/langchain-ai/langchainjs/pulls?q=author%3Atonisives+)
+<br>[chroma-db](https://github.com/chroma-core/chroma/pulls?q=author%3Atonisives+)
+
+</td>
+<td valign="top">
+
+**Ethereum**
+<br>[reth](https://github.com/paradigmxyz/reth/pulls?q=author%3Atonisives+)
+
+</td>
+<td valign="top">
+
+**Automotive**
+<br>[hmkit android](https://github.com/highmobility/hmkit-android)
+<br>[hmkit fleet](https://github.com/highmobility/hmkit-fleet)
+<br>[bluetooth-auto-api explorer](https://github.com/highmobility/hm-android-bluetooth-auto-api-explorer)
+
+</td>
+</tr>
+</table>
+</div>
