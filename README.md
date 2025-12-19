@@ -8,7 +8,7 @@ Using Typescript, Rust and more on bare metal Kubernetes.
 
 TypeScript
 
-- [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional programming in Typescript with AI linting rules
+- [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional programming in Typescript with linting rules for LLM-s
 
 System apps written in Rust
 
