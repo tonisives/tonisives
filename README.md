@@ -2,7 +2,7 @@
 
 Backend developer at [HolderScan](https://github.com/HolderScan). Previously worked at [High-Mobility](http://github.com/highmobility)
 
-Using Typescript, Rust and more on bare metal Kubernetes.
+Using Typescript and Rust on bare metal Kubernetes.
 
 ## Check out my open-source projects
 
