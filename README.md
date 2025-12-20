@@ -6,14 +6,16 @@ Using Typescript, Rust and more on bare metal Kubernetes.
 
 ## Check out my open-source projects
 
+System apps written in Rust
+
+- [ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode
+- [easy-kpf](https://github.com/tonisives/easy-kpf) - GUI app to manage port forwards
+
 TypeScript
 
 - [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional programming in Typescript with linting rules for LLM-s
 
-System apps written in Rust
 
-- [easy-kpf](https://github.com/tonisives/easy-kpf) - GUI app to manage port forwards.
-- [ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode
 
 ## My public contributions:
 
