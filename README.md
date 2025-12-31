@@ -13,7 +13,8 @@ System apps written in Rust
 
 TypeScript
 
-- [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional programming in Typescript with linting rules for LLM-s
+- [subreddit discovery](https://github.com/tonisives/subreddit-discovery) - functional Typescript backend code sample
+- [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional Typescript linting rules and helper utils
 
 
 
