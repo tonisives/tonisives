@@ -4,7 +4,7 @@ Backend developer at [HolderScan](https://github.com/HolderScan). Previously wor
 
 Using Typescript and Rust on bare metal Kubernetes.
 
-## Check out my open-source projects
+## Open-source projects
 
 System apps written in Rust
 
@@ -15,6 +15,10 @@ TypeScript
 
 - [subreddit discovery](https://github.com/tonisives/subreddit-discovery) - functional Typescript backend sample code
 - [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional Typescript linting rules and helper utils
+
+## Live web apps
+[Trend Seeker](https://trend-seeker.app) - scrapes the web for users having problems. Combines active clusters into business ideas.
+[defi-jobs.xyz](https://defi-jobs.xyz) - scrapes crypto company ATS pages to show recently added jobs in defi industry.
 
 
 
