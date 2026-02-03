@@ -17,11 +17,11 @@ TypeScript
 - [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional Typescript linting rules and helper utils
 
 ## Live web apps
-My personal apps all run on a single Hetzner server, behind a k3s cluster. They use TypeScript services and PostgreSQL db. Performance critical jobs are written in Rust
+My personal apps all run on a single Hetzner server, behind a k3s cluster. They use TypeScript/Rust services and PostgreSQL db
 
 - [Trend Seeker](https://trend-seeker.app) - scrapes the web for users having problems. Combines active clusters into business ideas.
 - [defi-jobs.xyz](https://defi-jobs.xyz) - scrapes crypto company ATS pages to show recently added jobs in defi industry.
-
+- [stablesafe.fyi](https://stablesafe.fyi) - Split stablecoin positions between multiple pools for the best APY/Safety balance.
 
 
 ## My public contributions:
