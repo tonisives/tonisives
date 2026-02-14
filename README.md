@@ -21,7 +21,7 @@ My personal apps run on a single Hetzner server, behind a k3s cluster. They use 
 
 - [Trend Seeker](https://trend-seeker.app) - scrapes the web for users having problems. Combines active clusters into business ideas.
 - [defi-jobs.xyz](https://defi-jobs.xyz) - scrapes crypto company ATS pages to show recently added jobs in defi industry.
-- [stablesafe.fyi](https://stablesafe.fyi) - Split stablecoin positions between multiple pools for the best APY/Safety balance.
+- [stablesafe.fyi](https://stablesafe.fyi) - stablecoin yield finder and non-custodial portfolio manager.
 
 
 ## My public contributions:
