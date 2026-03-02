@@ -10,6 +10,7 @@ System apps written in Rust
 
 - [ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode
 - [easy-kpf](https://github.com/tonisives/easy-kpf) - GUI app to manage port forwards
+- [clawtab](https://github.com/tonisives/clawtab) - Schedule and control Claude Code agent swarms
 
 TypeScript
 
