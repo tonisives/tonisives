@@ -24,6 +24,9 @@ My personal apps run on a single Hetzner server, behind a k3s cluster. They use 
 - [defi-jobs.xyz](https://defi-jobs.xyz) - scrapes crypto company ATS pages to show recently added jobs in defi industry.
 - [stablesafe.fyi](https://stablesafe.fyi) - stablecoin yield finder and non-custodial portfolio manager.
 
+## Dig Three
+Cross platform mobile game written in Unity. I coded the logic, hand-paintend the graphics and created the music and sound effects.
+[Dig Three](https://digthree.tonis.dev/)
 
 ## My public contributions:
 
