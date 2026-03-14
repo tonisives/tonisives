@@ -38,6 +38,7 @@ Cross platform mobile game written in Unity. I coded the logic, hand-paintend th
 **AI**
 <br>[langchainjs](https://github.com/langchain-ai/langchainjs/pulls?q=author%3Atonisives+)
 <br>[chroma-db](https://github.com/chroma-core/chroma/pulls?q=author%3Atonisives+)
+<br>[pinchtab](https://github.com/pinchtab/pinchtab/pulls?q=author%3Atonisives+)
 
 </td>
 <td valign="top">
