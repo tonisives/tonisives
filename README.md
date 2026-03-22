@@ -25,7 +25,7 @@ Other
 My personal apps run on a single Hetzner server, behind a k3s cluster. They use TypeScript/Rust services and PostgreSQL db
 
 - [Trend Seeker](https://trend-seeker.app) - scrapes the web for users having problems. Combines active clusters into business ideas.
-- [defi-jobs.xyz](https://defi-jobs.xyz) - scrapes crypto company ATS pages to show recently added jobs in defi industry.
+- [clawjobs.cc](https://clawjobs.cc) - scrapes AI/crypto company ATS pages to show recently added jobs in the tech industry.
 - [stablesafe.fyi](https://stablesafe.fyi) - stablecoin yield finder and non-custodial portfolio manager.
 
 ## Dig Three
