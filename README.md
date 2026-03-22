@@ -17,6 +17,10 @@ TypeScript
 - [subreddit discovery](https://github.com/tonisives/subreddit-discovery) - functional Typescript backend sample code
 - [ti-fptsu](https://github.com/tonisives/ti-fptsu) - functional Typescript linting rules and helper utils
 
+Other
+
+- [sitelytics](https://github.com/tonisives/sitelytics) - combine all GSC and GA analytics into unified dashboard. 
+
 ## Live web apps
 My personal apps run on a single Hetzner server, behind a k3s cluster. They use TypeScript/Rust services and PostgreSQL db
 
