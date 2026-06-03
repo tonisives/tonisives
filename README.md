@@ -26,6 +26,7 @@ My personal apps run on a single Hetzner server, behind a k3s cluster. They use 
 
 - [Trend Seeker](https://trend-seeker.app) - scrapes the web for users having problems. Combines active clusters into business ideas.
 - [clawjobs.cc](https://clawjobs.cc) - scrapes AI/crypto company ATS pages to show recently added jobs in the tech industry.
+- [clawtab.cc](https://clawtab.cc) - Info/News web page about ClawTab. Also includes the web remote to control your agents.
 - [stablesafe.fyi](https://stablesafe.fyi) - stablecoin yield finder and non-custodial portfolio manager.
 
 ## Dig Three
