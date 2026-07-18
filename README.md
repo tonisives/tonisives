@@ -1,6 +1,6 @@
 ## About me
 
-Backend developer at [HolderScan](https://github.com/HolderScan). Previously worked at [High-Mobility](http://github.com/highmobility)
+Founder of [Trend Seeker](https://trend-seeker.app). Previously Lead Backend Engineer at [HolderScan](https://github.com/HolderScan) backend engineer at [High-Mobility](http://github.com/highmobility)
 
 Using Typescript and Rust on bare metal Kubernetes.
 
