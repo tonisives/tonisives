@@ -10,7 +10,7 @@ System apps written in Rust
 
 - [clawtab](https://github.com/tonisives/clawtab) - Schedule and control Claude Code agent swarms
 - [ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode
-- [easy-kpf](https://github.com/tonisives/easy-kpf) - GUI app to manage port forwards
+- [bmux](https://github.com/tonisives/bmux) - browser with tmux like keybindings
 
 TypeScript
 
