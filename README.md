@@ -28,10 +28,7 @@ My personal apps run on a single Hetzner server, behind a k3s cluster. They use 
 - [clawtab.cc](https://clawtab.cc) - Info/News web page about ClawTab. Also includes the web remote to control your agents.
 - [clawjobs.cc](https://clawjobs.cc) - scrapes AI/crypto company ATS pages to show recently added jobs in the tech industry.
 - [stablesafe.fyi](https://stablesafe.fyi) - stablecoin yield finder and non-custodial portfolio manager.
-
-## Dig Three
-Cross platform mobile game written in Unity. I coded the logic, hand-paintend the graphics and created the music and sound effects.
-[Dig Three](https://digthree.tonis.dev/)
+- [Dig Three](https://digthree.tonis.dev/) - Cross platform mobile game written in Unity. I coded the logic, hand-paintend the graphics and created the music and sound effects.
 
 ## My public contributions:
 
